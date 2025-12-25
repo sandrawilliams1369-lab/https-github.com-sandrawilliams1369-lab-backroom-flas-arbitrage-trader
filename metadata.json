@@ -1,0 +1,5 @@
+{
+  "name": "Mirror Synthesis: Arbitrage Agent",
+  "description": "An AIXBT-inspired autonomous trading agent featuring Mirror Synthesis reasoning, real-time arbitrage scanning, and a retentive flashcard system for temporal learning.",
+  "requestFramePermissions": []
+}
